@@ -1,0 +1,6 @@
+{
+  "name": "Mercon Voxel",
+  "description": "Game Ledakan 3D Hypercasual dengan aneka mercon voxel unik dan dahsyat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
